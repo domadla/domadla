@@ -53,7 +53,7 @@ My development experience centers on backend engineering, RESTful API design, an
     <td width="20%" nowrap align="left"><img src="assets/icons/skills/nodejs.svg" width="18" height="18" valign="middle" alt="Node.js" />&nbsp;Node.js</td>
     <td width="22%" nowrap align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/skills/express-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/skills/express-light.svg"><img src="assets/icons/skills/express-dark.svg" width="18" height="18" valign="middle" alt="Express.js" /></picture>&nbsp;Express.js</td>
     <td width="23%" nowrap align="left"><img src="assets/icons/skills/codeigniter.svg" width="18" height="18" valign="middle" alt="CodeIgniter" />&nbsp;CodeIgniter</td>
-    <td width="35%" nowrap align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/skills/network-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/skills/network-light.svg"><img src="assets/icons/skills/network-dark.svg" width="18" height="18" valign="middle" alt="RESTful API Development" /></picture>&nbsp;RESTful&nbsp;API&nbsp;Development</td>
+    <td width="35%" nowrap align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/skills/network-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/skills/network-light.svg"><img src="assets/icons/skills/network-dark.svg" width="18" height="18" valign="middle" alt="RESTful API" /></picture>&nbsp;RESTful&nbsp;API&nbsp;Development</td>
   </tr>
 </table>
 
