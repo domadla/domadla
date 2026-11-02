@@ -58,7 +58,7 @@ My development experience centers on backend engineering, RESTful API design, an
 </table>
 
 ### Databases & Backend Services
-
+`
 <table width="100%">
   <tr>
     <td width="20%" nowrap align="left"><img src="assets/icons/skills/mysql.svg" width="18" height="18" valign="middle" alt="MySQL" />&nbsp;MySQL</td>
