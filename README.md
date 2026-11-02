@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/images/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/images/header-light.svg">
-  <img src="assets/images/header-dark.svg" width="100%" alt="Edgar Dominic Madlangbayan - Fourth-year BS Information Technology student specializing in Web and Mobile Application Development" />
-</picture>
-
 ## About Me
 
 I am a fourth-year Bachelor of Science in Information Technology student at **FEU Institute of Technology**, specializing in **Web and Mobile Application Development** and based in **Makati, Philippines**.
@@ -153,74 +147,6 @@ My development experience centers on backend engineering, RESTful API design, an
 
 ---
 
-## Certifications
-
-Click any badge below to view the verified credential record on Credly:
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/861c241c-6720-46c3-8d1c-9f34ec830ceb/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/ccna-enterprise.png" width="96" height="96" alt="CCNA: Enterprise Networking, Security, and Automation badge" /><br />
-        <b>CCNA: Enterprise Networking, Security, and Automation</b>
-      </a><br />
-      <sub>Cisco &bull; Jan 2026</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/ba91d8c5-2a38-49cb-8821-70a7cdea9af1/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/devnet-associate.png" width="96" height="96" alt="DevNet Associate badge" /><br />
-        <b>DevNet Associate</b>
-      </a><br />
-      <sub>Cisco &bull; Apr 2026</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/84f0f665-c3bb-4d64-905d-643bd9bd245a/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/ccna-switching.png" width="96" height="96" alt="CCNA: Switching, Routing, and Wireless Essentials badge" /><br />
-        <b>CCNA: Switching, Routing, and Wireless Essentials</b>
-      </a><br />
-      <sub>Cisco &bull; Mar 2025</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/2ce6e773-36a8-4cf8-9c0c-565c06e155ee/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/ccna-introduction.png" width="96" height="96" alt="CCNA: Introduction to Networks badge" /><br />
-        <b>CCNA: Introduction to Networks</b>
-      </a><br />
-      <sub>Cisco &bull; Feb 2025</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/cb93bcfd-5972-45c4-a631-b722084fd1d4/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/ccst-networking.png" width="96" height="96" alt="Cisco Certified Support Technician Networking badge" /><br />
-        <b>CCST Networking</b>
-      </a><br />
-      <sub>Cisco &bull; Feb 2025</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/63f274f6-ab7f-4a00-afe2-99876d933110/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/it-specialist-databases.png" width="96" height="96" alt="IT Specialist - Databases badge" /><br />
-        <b>IT Specialist: Databases</b>
-      </a><br />
-      <sub>Certiport &bull; Nov 2024</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/c8fda493-1b18-4e71-98fb-c1599e437e33/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/it-specialist-python.png" width="96" height="96" alt="IT Specialist - Python badge" /><br />
-        <b>IT Specialist: Python</b>
-      </a><br />
-      <sub>Certiport &bull; Feb 2025</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <a href="https://www.credly.com/badges/5f470c72-26a0-4b5a-9814-e36b5b2a0a8e/public_url" target="_blank" rel="noopener noreferrer">
-        <img src="assets/certifications/pmi-project-management-ready.png" width="96" height="96" alt="PMI Project Management Ready badge" /><br />
-        <b>PMI Project Management Ready™</b>
-      </a><br />
-      <sub>PMI &bull; Active thru 2031</sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ## Contact & Profiles
 
